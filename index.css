@@ -1,3 +1,19 @@
 * {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.title {
 	text-align: center;
+	font-size: 50px;
+}
+
+#main-info {
+	margin-top: 5%;
+	margin-left: 30%;
+	margin-right: 18%;
+	display: none;
+}
+
+.info-text {
+	text-align: left;
 }
